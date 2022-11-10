@@ -1,24 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: As a user, I should be able to remove files from favorites and upload a file directly
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 13.325 s <<< FAILURE! - in As a user, I should be able to remove files from favorites and upload a file directly
-As a user, I should be able to remove files from favorites and upload a file directly.verify users to remove files to Favorites  Time elapsed: 7.637 s  <<< ERROR!
-org.openqa.selenium.WebDriverException: 
-unknown error: net::ERR_CONNECTION_REFUSED
-  (Session info: chrome=107.0.5304.87)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'MacBook-Pro.lan', ip: '2603:9000:ef04:2503:0:0:0:1052%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/sr/pkm5v44949v...}, goog:chromeOptions: {debuggerAddress: localhost:49973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c55cc30b5c857d96e546b9c1d7a7d39c
-
-As a user, I should be able to remove files from favorites and upload a file directly.verify users to upload a file from Files  Time elapsed: 5.687 s  <<< ERROR!
-org.openqa.selenium.WebDriverException: 
-unknown error: net::ERR_CONNECTION_REFUSED
-  (Session info: chrome=107.0.5304.87)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'MacBook-Pro.lan', ip: '2603:9000:ef04:2503:0:0:0:1052%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: /var/folders/sr/pkm5v44949v...}, goog:chromeOptions: {debuggerAddress: localhost:49991}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 8d00184db885ba4cfeb6a735aae15ef9
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.301 s - in As a user, I should be able to remove files from favorites and upload a file directly
